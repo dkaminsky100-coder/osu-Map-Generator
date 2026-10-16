@@ -1,0 +1,5 @@
+numpy
+scipy
+librosa>=0.10
+rosu-pp-py>=3.0      # official-style star rating, used for the target-star feedback loop
+imageio-ffmpeg       # optional: bundled ffmpeg if you don't have one on PATH
