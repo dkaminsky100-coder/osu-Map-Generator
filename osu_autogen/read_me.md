@@ -37,6 +37,8 @@ Run the tool from your command line by passing the audio or video file along wit
 
 ```bash
 python -m osu_autogen path/to/song.mp3 --stars 5.0 --title "Song Title" --artist "Artist Name"
+
+in case this does not work try py instead of python :D
 ```
 
 ### Command-Line Arguments
