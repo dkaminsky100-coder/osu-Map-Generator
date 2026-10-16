@@ -56,7 +56,7 @@ python -m osu_autogen "path/to/song.mp3" --stars 5.0 --title "Song Title" --arti
 ### Example with Video
 
 ```bash
-python -m osu_autogen "C:\Users\YourName\Downloads\opening.mp4" --stars 3.5 --title "Blue Box OP" --artist "Official HIGE DANdism" --video-offset-ms -200
+python -m osu_autogen "C:\Users\YourName\Downloads\opening.mp4" --stars 3.5 --title "Blue Box OP" --artist "Official HIGE DANdism"
 ```
 
 ---
