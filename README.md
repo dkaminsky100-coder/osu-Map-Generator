@@ -1,4 +1,4 @@
-# osu_autogen
+# osu_Map_Generator
 
 `osu_autogen` is a command-line tool that automatically generates playable, importable osu! standard beatmaps (`.osz`) from audio or video files. It analyzes the track's tempo, detects onsets, lays out rhythm-aware notes and sliders, and uses a feedback loop to target a specific star rating.
 
