@@ -36,8 +36,9 @@ pip install -r requirements.txt
 Run the tool from your command line by passing the audio or video file along with your target parameters:
 
 ```bash
-python -m osu_autogen path/to/song.mp3 --stars 5.0 --title "Song Title" --artist "Artist Name"
+python -m osu_autogen "path/to/song.mp3" --stars 5.0 --title "Song Title" --artist "Artist Name"
 ```
+//IN CASE THIS DOES NOT WORK USE py INSTEAD OF python :D
 
 ### Command-Line Arguments
 
